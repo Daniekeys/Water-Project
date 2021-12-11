@@ -126,7 +126,7 @@ const Login = () => {
             </div>
             <div className={classes.loginBtnContainer}>
                 <Button variant="contained"  className={classes.loginBtn}
-                compoenent={Link} to="/dashboard">
+                component={Link} to="/dashboard">
                 
                     Login
                 </Button>
