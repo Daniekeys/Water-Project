@@ -1,6 +1,6 @@
 {
-  "name": "Hubitcms",
-  "homepage": "https://hubitcms.netlify.app/",
+  "name": "Water",
+  "homepage": "https://waterdistapp.netlify.app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
