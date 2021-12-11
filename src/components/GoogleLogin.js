@@ -11,7 +11,7 @@ const GoogleAuth = () => {
     const [isLoggedIn, setIsLoggedIn] = useState(false);
     const [showLoginButton, setShowLoginButton] = useState(true);
     const [showLogoutButton, setShowLogoutButton] = useState(false);
-    const clientId = "294593151688-664n87nepifpao2ftnfknlb5ek60eha5.apps.googleusercontent.com";
+    const clientId = "294593151688-schigqgmq0rujmp6arf4tl0mdn3p3d3k.apps.googleusercontent.com";
     const onLoginSuccess = (response) => { 
         console.log("Login success");
         console.log(response.profileObj);
